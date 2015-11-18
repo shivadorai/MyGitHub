@@ -1,3 +1,4 @@
 new gitfile
 issue 53 fix
 enhancement 1
+issue 53 bug fix 2
